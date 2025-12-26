@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Built with
 
-- **HTML5 Semantic**: "Use of tags such as <main>, <section>, <article>, and <footer> for better accessibility and SEO."
+- **HTML5 Semantic**: Use of tags such as `<main>`, `<section>`, `<article>`, and `<footer>` for better accessibility and SEO.
 - **CSS Custom Properties (Variables)**: Organization of colors using the HSL format to facilitate maintenance.
 - **Flexbox**: Used for center alignment of the page and simple internal elements.
 - **CSS Grid**: Used to efficiently manage the two-column layout in the desktop version.
